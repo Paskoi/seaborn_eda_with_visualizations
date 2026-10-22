@@ -9,7 +9,7 @@ Each dataset gets its own notebook.
 | Dataset | Notebook | Status |
 |---|---|---|
 | tips | [datasets/tips/tips.ipynb](datasets/tips/tips.ipynb) | done |
-| titanic | - | planned |
+| titanic | [datasets/titanic/titanic.ipynb](datasets/titanic/titanic.ipynb) | active |
 | taxis | - | planned |
 | planets | - | planned |
 | seaice | - | planned |
